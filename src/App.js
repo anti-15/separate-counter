@@ -12,7 +12,7 @@ function App() {
 
   return (
     <>
-      <div className="p-5 mx-auto max-w-5xl md:grid grid-cols-2 ">
+      <div className="p-5 mx-auto max-w-4xl md:grid grid-cols-2 ">
         {countList}
         <button
           className="mt-4  h-64 mx-auto block"
